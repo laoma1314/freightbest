@@ -1,3 +1,8 @@
 github is good job
 our boss is so foolish,i'am so unhappy
+<<<<<<< HEAD
 master
+=======
+add a new branch feature1
+master
+>>>>>>> feature1
