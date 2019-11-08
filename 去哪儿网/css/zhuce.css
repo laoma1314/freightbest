@@ -1,0 +1,170 @@
+html,body{
+	height: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-size: "Microsoft Yahei","宋体",sans-serif;
+}
+/* 注册样式 */
+#zc_top{
+	line-height: 24px;
+	background: #f5f5f5;
+	border-bottom: 1px solid #c1c1c1;
+}
+#zc_top .zc_innner{
+	width: 1000px;
+	margin: 0 auto;
+}
+#zc_top .zc_innner div{
+	font-size: 0;
+	float: right;
+}
+#zc_top .zc_innner div a{
+	text-decoration: none;
+	font-size: 12px;
+	color: #333;
+	border-right: 1px solid black;
+	padding: 0 4px;
+}
+#zc_top .zc_innner div a.line_none{
+	border-right: none;
+}
+#zc_top .zc_innner div a.zc_color_o{
+	color: #ff7c00;
+}
+#zc_logo{
+	width: 1000px;
+	margin: 0 auto;
+	padding: 20px 0;
+	border-bottom: 2px solid #f5f5f5;
+}
+#zc_logo a{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 33px;
+	margin-left: 5px;
+}
+#zc_content{
+	width: 1000px;
+	margin: 0 auto;
+	padding: 54px 15px 54px 54px;
+}
+#zc_content .zc_left{
+	float: left;
+}
+#zc_content .zc_left .form1 p{
+	margin-bottom: 20px;
+	color: #999;
+	font-size: 14px;
+}
+#zc_content .zc_left .form1 p.zc_pro,#zc_content .zc_left .form1 p.zc_sub{
+	margin-left: 47px;
+}
+#zc_content .zc_left .form1 p.zc_sub input{
+	width: 120px;
+	line-height: 30px;
+	background: #ff8200;
+	border: none;
+	outline: none;
+	font-size: 14px;
+	color: white;
+	padding-left: 0;
+	text-align: center;
+	cursor: pointer;
+}
+#zc_content .zc_left .form1 p.zc_sub input:hover{
+	background: #ff9c00;
+}
+#zc_content .zc_left .form1 p.zc_telephone a{
+	font-size: 12px;
+	margin-left: 10px;
+}
+#zc_content .zc_left .form1 p.zc_password a{
+	font-size: 12px;
+	margin-left: 10px;
+}
+#zc_content .zc_left .form1 p.zc_checkcode a{
+	font-size: 12px;
+	margin-left: 10px;
+}
+#zc_content .zc_left .form1 p.zc_activecode a{
+	font-size: 12px;
+	margin-left: 10px;
+}
+a.zc_error_1{
+	display: inline-block;
+	line-height: 16px;
+	color: red;
+	padding-left: 20px;
+	background: url(../imags/error_v2.png) no-repeat;
+}
+a.zc_error_2{
+	display: inline-block;
+	line-height: 16px;
+	padding-left: 20px;
+	background: url(../imags/icon_accept_v2.gif) no-repeat;
+}
+#zc_content .zc_left .form1 p.zc_sub a{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 5px;
+}
+#zc_content .zc_left .form1 p.zc_sub a.zc_use{
+	margin-left: 10px!important;
+}
+#zc_content .zc_left .form1 p.zc_pro a{
+	text-decoration: none;
+	font-size: 12px;
+	vertical-align: top;
+}
+a.zc_color_blue:hover{
+	color: #ff6600;
+}
+a.zc_color_blue{
+	color: #006bc8;
+}
+#zc_content .zc_left .form1 p input{
+	width: 254px;
+	height: 34px;
+	margin-left: 10px;
+	font-size: 16px;
+	padding-left: 10px;
+}
+#zc_content .zc_left .form1 p input.zc_multi{
+	width: 14px;
+	height: 14px;
+	border-radius: 3px; 
+}
+#zc_content .zc_right{
+	float: right;
+	width: 320px;
+}
+#zc_content .zc_right h3{
+	font-size: 14px;
+	color: #555;
+	font-weight: normal;
+	margin-bottom: 15px;
+}
+#zc_content .zc_right p{
+	padding: 0 20px;
+	font-size: 12px;
+	color: #555;
+	margin-bottom: 16px;
+}
+span.zc_color_zs{
+	color: #fd017c;
+}
+#zc_content .zc_right p.zc_heit{
+	line-height: 25px;
+}
+.clearfix:after{
+    content: "." ;
+    display: block ;
+    height: 0 ;
+    clear: both ;
+    visibility: hidden ;
+}
+.clearfix{
+    *zoom:1;
+}

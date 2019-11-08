@@ -1,0 +1,455 @@
+ul{
+  list-style: none;
+}
+.section_room>div{
+    position: absolute;
+    top: 12px;
+    left: 3px;
+}
+
+.icon-box{
+    content: "";
+    display: inline-block;
+    width: 27px;
+    height: 26px;
+    background: url(../images/box.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+a{
+  color: #333;
+}
+.navbar-nav > li:last-child a{
+  color: #fff;
+}
+.navbar-nav > li:last-child a:hover{
+    color: #fff;
+}
+.slide_text{
+    position: absolute;
+    top: 0;
+    right: 402px;
+    z-index: 50;
+    height: 100%;
+    color: #fff;
+    padding:25px;
+    margin-top: 65px; 
+}
+.slide_text h3{
+  font-size: 3em;
+  margin-bottom: 42px;
+  line-height: 1.5em;
+  font-weight: 800;
+}
+.slide_text h4{
+  padding-right: 25px;
+  line-height: 1.5em;
+  margin-bottom: 15px;
+}
+.slide_text .btn-warning{
+  background: #FDA30E;
+  color: #000;
+  border-radius: 6px;
+  font-weight: bold;
+  width: 28%;
+}
+.slide_text .btn-warning:hover{
+  background: #ffb336;
+}
+.new_arrivals .container .row h4{
+  font-size: 14px;
+  font-weight: bold;
+}
+.new_arrivals .container .row{
+  font-size: 14px;
+}
+.new_arrivals .container .row .col-md-4{
+  margin-bottom: 42px;
+}
+.icon-feiji:before{
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url(../images/feiji.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-feiyong:before{
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url(../images/feiyong.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-liucheng1:before{
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url(../images/liucheng.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-linghuoxing:before{
+    content: "";
+    display: inline-block;
+    width: 45px;
+    height: 43px;
+    background: url(../images/linghuoxing.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-zhuanye:before{
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url(../images/zhuanye.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-weixinping:before{
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url(../images/weixinping.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.icon-youjiantou{
+    font-size: 0.75em;
+    vertical-align: middle;
+    position: relative;
+    left: 6px;
+    cursor: pointer;
+    color: #333;
+}
+.icon-youjiantou:hover{
+    color: #FDA30E;
+}
+
+.product-easy .container-fluid{
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.product-easy h4{
+    font-weight: 550;
+    line-height: 1.5em;
+}
+.product-easy h4,.product-easy .p_text{
+  margin-bottom: 15px;
+}
+/* footer css */
+.footer .container{
+  padding: 30px 0;
+  min-width: 1280px;
+}
+.footer h4.h4-style{
+    background: #111111;
+    margin-top: -1px;
+    padding-top: 0;
+    padding:15px 0;
+    font-size:12px;
+    color: #dadada;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+.freight .icon-iconfonticonfonti2copycopy{
+  font-size: 12px;
+}
+.freight .icon-youxiang{
+  font-size: 2.3em;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.freight .icon-shijian{
+  font-size: 1.9em;
+    vertical-align: middle;
+    margin-right: 9px;
+    margin-left: 2px;
+}
+.freight .col-md-3{
+    width: 20%;
+}
+.freight {
+  color: #dadada;
+  font-size: 12px;
+}
+.freight .color-f28{
+  color: #f28e00;
+}
+.freight h3{
+  font-weight: bold;
+}
+.freight .lm_col-md-3{
+  margin-top: 65px;
+}
+.freight .col-md-3 h4.h4-center{
+  position: relative;
+    top: 8px;
+    color: #dadada;
+}
+.freight .col-md-4 li.li-1:before{
+  content: "";
+    display: inline-block;
+    width: 27px;
+    height: 26px;
+    background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/usa_2.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.freight .col-md-4 li.li-2:before{
+  content: "";
+    display: inline-block;
+    width: 24px;
+    height: 16px;
+    background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/china_2.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    margin-right: 6px;
+   /*  margin-left: -4px; */
+}
+.freight .col-md-4 ul{
+  line-height: 2.75em;
+}
+.freight .lm_text p,.freight .lm_services ul{
+  line-height: 2.2em;
+}
+.freight .col-md-4 h3,.freight .col-md-2 h3{
+  color:#dadada;
+  font-size: 14px; 
+}
+.freight .col-md-4 h4.h4-center{
+  position: relative;
+    top: 8px;
+}
+.cooperation{
+  margin-top: 32px;
+}
+.li-6{
+  margin-top: 12px;
+}
+.li-6 img{
+  margin-right: 8px;
+}
+.cooperation h4{
+  font-weight: normal;
+  font-size: 16px;
+}
+.cooperation h4 a{
+  color: #9d9d9d;
+} 
+.lm_services .li-same-style span:before{
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 6px;
+  background: #dadada;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.contact-grid5{
+    min-height: 256px;
+    padding-top: 45px;
+    background: url(../images/new5.jpg) no-repeat center;
+}
+.contact-grid{
+  padding-right: 0;
+  margin-top: 4px;
+}
+@media only screen and (max-width: 770px){
+  .customer{
+    padding: 0;
+  }
+  .login-dangerous .modal-body{
+    padding: 0px;
+  }
+  .navbar-default{
+    width: 60%;
+  }
+  .footer{
+    padding-bottom: 0;
+  }
+  .footer .container{
+    min-width: auto;
+  }
+  .freight .col-md-3{
+    width: 100%;
+    margin-top: 32px;
+  }
+  .freight .col-md-4{
+  margin-top: 32px;
+  margin-bottom: 32px;
+  }
+    .freight .col-md-4 h2{
+    margin-bottom: 0;
+   }
+   .freight .img{
+    padding-left: 0;
+   } 
+   .header ul li:nth-child(1){
+    width: 100%;
+    padding-bottom: 0;
+   }
+   .header ul li:nth-child(2){
+    border: 0;
+   }
+  .header ul li:nth-child(2),.header ul li:nth-child(3){
+    width: 49%;
+   } 
+   .header ul li:nth-child(2),.header ul li:nth-child(3){
+    padding-top: 0;
+   }
+   .container .section_room{
+    width: 40%;
+    margin: 0 15px;
+   }
+   .section_room>div{
+    top: 2px;
+   }
+   .section_room select{
+    padding-left: 32px;
+   }
+   .sear-sub{
+    width: 30%;
+    float: left;
+   }
+   .header-middle form input[type="submit"]{
+    background: #fda30e;
+   }
+   .col-sm-4 .form-control{
+    height: auto;
+   }
+   .slide_text{
+    width: 150px;
+    height: 150px;
+    left: 15px;
+    top: 75px;
+    right: 0;
+    margin: 0;
+    padding: 0;
+   }
+   .slide_text h3,.slide_text h4{
+    font-size: 12px;
+    line-height: 1.2em;
+   }
+   .slide_text h3{
+    margin-bottom: 18px;
+   }
+   .slide_text .btn-warning{
+    width: 60%;
+   }
+   .product-easy .container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+   }
+   .footer{
+    padding-top: 30px;
+   }
+   .footer .container{
+    padding-top: 0;
+   }
+   .air-cargo-content .btn-warning{
+    width: 100%;
+    margin-top: 15px;
+   } 
+   .air-cargo-content .col-md-6-describe p{
+    margin-bottom: 18px!important;
+   }
+   .air-cargo-content .describe_1{
+    margin-top: 18px!important;
+   }
+   .air-cargo .col-md-3{
+   display: none;
+  }
+  .air-cargo .container .col-md-9{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .freight-best-news .col-md-3{
+    display: none;
+  }
+  .freight_news{
+    padding: 0;
+  } 
+  .freight-best-news .col-md-9,.freight-best-news .container{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .contact{
+    padding-top: 50px;
+  }
+
+  .contact-grid{
+    width: 95%;
+  }
+  .page-head{
+    margin-top: 35px;
+  }
+  .page-head h3{
+    font-size: 22px;
+  }
+
+}
+@media (max-width: 384px){
+  .slide_text{
+    top:30px;
+  }
+}
+@media (max-width: 320px){
+  .slide_text{
+    top:10px;
+  }
+}
+/* footer css */
+/* 表单样式 */
+.form-group{
+      margin-bottom: 14px!important;
+    }
+    .modal-content .modal-header .modal-title{
+      font-size: 24px;
+      font-weight: 500;
+    }
+    .modal-content .modal-body form h4{
+      text-align: center;
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .modal-content .modal-body form .form-group .input-group .input-group-addon span{
+      color: red;
+    }
+                .widget .video-back ul li a{
+                        cursor:pointer;
+                }
+               .lm_style{
+      padding-top: 15px;
+      border:1px solid #ccc;
+      margin-bottom: 15px;
+      border-radius: 5px;
+    }
+    .lm_style h3{
+      font-size: 18px;
+      font-weight: 500;
+      color: #555;
+      padding-left: 15px;
+    }
+    .lm_style p{
+      padding-left: 15px;
+      margin: 0 0 0.5em!important;
+    }
+
+/* 表单样式 */

@@ -1,0 +1,12 @@
+.faq{
+  padding: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.faq h4{
+  font-weight: bold;
+  margin-top: 8px;
+}
+.faq p a{
+  color: #0b6db1;
+}

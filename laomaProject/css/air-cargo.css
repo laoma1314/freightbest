@@ -1,0 +1,57 @@
+.air-cargo{
+  padding: 15px;
+  padding-top: 55px;
+  background: #f6f6f6;
+}
+.air-cargo .col-md-3{
+  border: 1px solid #eee;
+  background: #fff;
+  padding: 15px;
+}
+.air-cargo .col-md-9 .col-md-4{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.air-cargo .col-md-9 .col-md-4 img{
+  border: 6px solid #fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+.air-cargo h3{
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 26px;
+}
+.air-cargo h4{
+  font-weight: 550;
+  font-size: 14px;
+  margin: 15px 0;
+}
+.air-cargo h3.title{
+  background: url(../images/bg_cargo.jpg);
+  background-size: cover;
+  padding: 8px;
+  border-radius: 6px;
+  box-shadow: 0 1px 1px #bdbdbd;
+  color: #fff;
+  text-shadow: 1px 1px #904a27;
+  text-align: center;
+  font-size: 24px;
+}
+.air-cargo h4 a{
+  font-size: 12px;
+  
+}
+.air-cargo h4 a:hover{
+  color: #FDA30E;
+}
+.air-cargo nav{
+  padding-left: 15px;
+}
+.pagination > li > a{
+  color: #fda30e;
+}
+.icon-icon-test1{
+  margin-right: 6px;
+  color: #969696;
+  font-size: 14px;
+}

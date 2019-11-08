@@ -1,0 +1,512 @@
+.modal-content{
+  box-shadow: none!important;
+}
+.modal-header{
+  border-bottom: 1px solid #e5e5e5;
+}
+.std{
+  padding: 50px 0;
+  background: #ebebeb;
+}
+.std p.p_stle_light{
+  margin: 0 0 0.2em;
+}
+.std .container{
+  padding-right: 0;
+  padding-left: 0;
+}
+.std .container .row .panel-default{
+  border-color: transparent;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0);
+  box-shadow: 0 1px 1px rgba(0,0,0,0);
+}
+.std .container .row strong{
+  color: #1db9e8;
+}
+.std .container .row .panel-default .panel-heading h2{
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.std .container .row .panel-default .thumbnail{
+  border:none;
+  margin-bottom: 0;
+}
+.std .container .row .panel{
+  margin-bottom: 0;
+}
+       .std .container .row .modal-header{
+  padding-bottom: 8px;
+}
+.std .container .row .modal-body{
+  padding-top: 0;
+}
+.std .container .row .modal-content{
+  background: #f5f5f5;
+}
+.std .container .row .navbar-inverse{
+  background-color: #f5f5f5;
+  border-color: #f5f5f5;
+  padding: 15px;
+}
+.std .container .row .navbar-inverse ul li{
+  line-height: 2.5;
+  margin-bottom: 8px;
+}
+.std .container .row .navbar-inverse ul li a{
+  display: block;
+}
+.std .container .row .navbar-inverse ul li a.active{
+  background: white;
+  border-radius: 2.5em;
+  padding-left: 0.5em;
+  box-shadow: 0 0 1px rgba(5,5,5,.2);
+}
+.std .container .row .navbar-inverse ul li a.active_1{
+background: white;
+  border-radius: 2.5em;
+  padding-left: 0.5em;
+  box-shadow: 0 0 1px rgba(5,5,5,.2);
+}
+.std .container .row .navbar-inverse ul li a.a1:before{
+  content: "";
+  display: inline-block;
+  width: 27px;
+  height: 26px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/usa.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.std .container .row .navbar-inverse ul li a.a2:before{
+  content: "";
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/na_3.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px
+}
+.std .container .row .navbar-inverse ul li a.a3:before{
+  content: "";
+  display: inline-block;
+  width: 27px;
+  height: 26px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/eu.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.std .container .row .navbar-inverse ul li a.a4:before{
+  content: "";
+  display: inline-block;
+  width: 27px;
+  height: 25px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/dubai.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.std .container .row .navbar-inverse ul li a.a5:before{
+  content: "";
+  display: inline-block;
+  width: 27px;
+  height: 25px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/au.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.std .container .row .navbar-inverse ul li a.a6:before{
+  content: "";
+  display: inline-block;
+  width: 27px;
+  height: 26px;
+  background: url(https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/danger_goods.png) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.std .container .row .text-capitalize{
+  margin-bottom: 6px;
+}
+.std .container .row .details ul li{
+  /* font-weight: 550; */
+  color: #868686;
+}
+.std .container .row .tips{
+  border: 1px solid #ddd;
+  margin-bottom: 32px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+}
+.std .container .row .advantage{
+  /*margin-bottom: 55px;*/
+}
+.std .container .row .service p{
+  margin-bottom: 12px;
+  /* color: #09aee0; */
+}
+.std .container .row .process .panel-default .panel-body{
+  padding-top: 0;
+}
+.row .service h3{
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+.row .service p.p_style_2 span{
+  text-indent: 2em;
+  line-height: 1.6em;
+  display: inline-block;
+}
+.row .service p.p_style_2 mark{
+  /*background: transparent;
+  font-weight: 550;
+  color: #868686;*/
+}
+.row .service p.p_style_2 span:first-child{
+  margin-top: 12px;
+}
+.row .service p.p_style_3 span{
+  display: inline-block;
+  width: 50%;
+  cursor: pointer;
+}
+.row .service p.p_style_3 span:hover{
+  color: #868686;
+  font-weight: 550;
+}
+.row .service p.p_style_3 span:hover i{
+  color: #868686;
+}
+.row .service p.p_style_3 span.last{
+  width: 100%;
+}
+.std .container .row .process .panel-default .panel-body p.p_style_2{
+
+}
+.std .container .row .advantage h2{
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.std .container .row .advantage dl dt{
+  margin-top: 8px;
+}
+.std .container .row .advantage dl dd{
+  margin-top: 15px;
+  margin-bottom: 24px;
+}
+.std .container .row .process p.h24{
+  margin-top: 24px;
+}
+.std .container .row .process .panel-default .caption h3{
+  float: left;
+  font-size: 40px;
+  width: 36px;
+  font-weight: 600;
+  color: #1db9e8;
+  text-align: center;
+}
+.std .container .row .process .move .same-style{
+  margin-bottom: 8px;
+}
+.std .container .row .process .move .same-style .content h3{
+margin-top: 12px;
+  color: #868686;
+  font-size: 1.1em;
+}
+.std .container .row .process .move .same-style .content p{
+  margin-bottom: 8px;
+}
+.std .container .row .process .move .same-style .content p.img_1:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/man_2.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move{
+  background: rgb(245, 245, 245,.6);
+  padding: 15px;
+  height: 280px;
+  overflow: hidden;
+  position: relative;
+}
+ .std .container .row .process .move .wrap{
+  position: relative;
+  /* animation:mymove 10s linear infinite;
+        -webkit-animation:mymove 10s linear infinite; Safari and Chrome
+        -o-animation:mymove 10s linear infinite; opera
+        -ms-animation:mymove 10s linear infinite; ie
+        -moz-animation:mymove 10s linear infinite; firefox */
+ }
+ /* @keyframes mymove{
+      from {top:0px;}
+      to {top:-600px;}
+     }
+ 
+     @-webkit-keyframes mymove{
+      from {top:0px;}
+      to {top:-600px;}
+     }
+     @-moz-keyframes mymove{
+      from {top:0px;}
+      to {top:-600px;}
+     }
+     @-o-keyframes mymove{
+      from {top:0px;}
+      to {top:-600px;}
+     }
+     @-ms-keyframes mymove{
+      from {top:0px;}
+      to {top:-600px;}
+     } */
+.std .container .row .process .move .same-style .content p.img_2:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/man_1.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move .same-style .content p.img_3:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/woman_1.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move .same-style .content p.img_4:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/woman_2.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move .same-style .content p.img_5:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/man_3.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move .same-style .content p.img_6:before{
+content: "";
+display: inline-block;
+width: 32px;
+height: 32px;
+background: url('https://www.freightbest.com/skin/frontend/rwd/freightbest/images/temple/woman_3.png');
+background-size: 100% 100%;
+vertical-align: middle;
+margin-right: 6px;
+}
+.std .container .row .process .move .same-style .content{
+  border-bottom: 1px solid #f1f1f1;
+  padding-bottom: 6px;
+}
+.std .container .row .process .move .same-style_2 .content{
+  border-bottom: none;
+}
+.std .container .row .small_head{
+  background: transparent;
+  border: none;
+  font-size: 0.6em;
+  margin-bottom: 12px;
+  margin-top: 8px;
+  display: none;
+}
+.std .container .row .qustions{
+  background: white;
+  padding: 8px 15px 15px 15px;
+  display: none;
+  margin-top: 8px;
+  border-radius: 10px;
+  border: 1px solid #f1f1f1;
+}
+.std .container .row .qustions h3{
+font-size: 1.1em;
+  color: #9b0000;
+  font-weight: 600;
+}
+.std .container .row .qustions p.p_stle_light{
+  font-size: 0.95em;
+  text-indent: 1.6em;
+}
+.std .container .row .small_head h2.panel-title{
+  color: #9b0000;
+}
+.std .container .row .small_head .panel-body{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.std .container .row .small_head .panel-body p{
+  text-indent: 1.3em;
+  font-size: 1.5em;
+  line-height: 1.6em;
+}
+.std .container .row .small_head .panel-body .details ul li{
+  font-size: 1.5em;
+  line-height: 1.6em;
+  text-indent: 1.3em;
+}
+.std .container .row .small_head .panel-heading{
+  border-color: transparent;
+  background-color: white;
+}
+.std .container .row .small_head .panel-body{
+  background-color: white;
+}
+.std .container .row span.sred{
+  color: #9b0000;
+}
+.std .container .row .close,.std .container .row .my{
+  display: none;
+}
+.move i{
+  font-size: 1.8em;
+  color: rgb(29, 185, 232);
+  margin-left: -6px;
+}
+i.icon-liucheng{
+  font-size: 0.9em;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+i.icon-kehuguanli{
+  font-size: 1.2em;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+i.icon-zheng-triangle{
+  font-size: 0.6em;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+i.icon-tishi,i.icon-fuwuxiangmu,i.icon-youshi{
+  font-size: 1em;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.sfix{
+  position: fixed!important;
+  top: 10px!important;
+}
+i.icon-jiahao{
+  font-size: 1.5em;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #9b0000;
+  margin-left: 6px;
+  margin-top: -3px;
+  display: inline-block;
+}
+i.icon-jianhao{
+  font-size: 1.4em;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #9b0000;
+  margin-left: 6px;
+  margin-top: -3px;
+  display: inline-block;
+}
+i.icon-wenhao1{
+  font-size: 1.3em;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #9b0000;
+  margin-left: 6px;
+  margin-top: -3px;
+  display: inline-block;
+}
+i.icon-tishi{
+  font-size: 1em;
+  margin-right: 3px;
+}
+i.icon-lianxiwomen{
+  font-size: 1em;
+  margin-right: 3px;
+}
+i.icon-baojiaquotation2{
+  font-size: 2em;
+  height: 0.5em;
+  line-height: 0.8em;
+  display: inline-block;
+  float: left;
+}
+i.icon-baojiaquotation{
+  font-size: 1.8em;
+  height: 0.5em;
+  line-height: 0.8em;
+  display: inline-block;
+  position: relative;
+  top: 6px;
+  margin-right: 6px;
+}
+i.icon-lianxiren{
+  font-size: 2em;
+  height: 0.5em;
+  line-height: 0.8em;
+  display: inline-block;
+  position: relative;
+  top: 6px;
+  margin-right: 6px;
+  color: #b6b6b6;
+}
+ i.icon-dianhua{
+  font-size: 1.8em;
+height: 0.5em;
+line-height: 0.8em;
+display: inline-block;
+  margin-right: 6px;
+  color: #b6b6b6;
+}
+ i.icon-social-skype{
+  font-size: 1.7em;
+height: 0.5em;
+line-height: 0.8em;
+display: inline-block;
+position: relative;
+top: 6px;
+  margin-right: 6px;
+  color: #b6b6b6;
+}
+ i.icon-social-whatsapp,i.icon-we-chatpay{
+  font-size: 1.6em;
+height: 0.5em;
+line-height: 0.8em;
+display: inline-block;
+position: relative;
+  margin-right: 6px;
+  top: 6px;
+  color: #b6b6b6;
+}
+ i.icon-email{
+  font-size: 1.1em;
+height: 0.5em;
+line-height: 0.8em;
+display: inline-block;
+position: relative;
+  margin-right: 6px;
+  color: #b6b6b6;
+}
+.modal-footer{
+  text-align: center;
+}
+@media only screen and (max-width: 770px){
+  .std .container .row .service{
+    /*margin-top: 32px;*/
+  }
+}

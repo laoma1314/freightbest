@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>注册界面</title>
+	<link rel="stylesheet" href="css/zhuce.css" />
+</head>
+<body>
+	<div id="zc_top" class="clearfix">
+		<div class="zc_innner">
+			<div>
+				<a class="line_none" href="">登录</a>
+				<a href="">注册</a>
+				<a class="zc_color_o"href="">去哪儿网首页</a>
+				<a class="line_none" href="">联系客户</a>
+			</div>
+		</div>
+	</div>
+	<div id="zc_logo" class="clearfix">
+		<img src="imags/logo.png" alt="" title="去哪儿网"/><a>账号注册</a>
+	</div>
+	<div id="zc_content" class="clearfix">
+		<div class="zc_left">
+			<form action="index.php" method="get" class="form1" onsubmit="return checkinfo();">
+				<p>&nbsp;&nbsp;<label for="">国家</label><input type="text" name="" id="" placeholder="中国&nbsp;86"/></p>
+				<p class="zc_telephone"><label for="telephone">手机号码</label><input type="text" id="telephone"  name="telephone" class="telephone" placeholder="请输入手机号码" /><a id="zc_error_1">可用于激活码获取、密码找回、订单查询等</a></p>
+				<p class="zc_password"><label for="password">登录密码</label><input type="password" name="password" id="password" placeholder="请输入登录密码"/><a id="zc_error_3"></a></p>
+				<p class="zc_checkcode">&nbsp;<label for="checkcode">验证码</label><input type="text" name="checkcode" id="checkcode" placeholder="请输入验证码"/><a id="zc_error_4"></a></p>
+				<p class="zc_activecode">&nbsp;<label for="active">激活码</label><input type="text" name="active" id="active" placeholder="请输入激活码"/><a id="zc_error_5"></a></p>
+				<p class="zc_pro"><input type="checkbox" checked="checked" name="" id="" class="zc_multi"/><a>我已阅读并同意遵守</a><a class="zc_color_blue" href=""> 《去哪儿用户服务协议》</a></p>
+				<p class="zc_sub"><input type="submit" value="同意协议并注册" /><a class="zc_use">使用</a><a class="zc_color_blue" href="">邮箱注册</a></p>
+			</form>
+		</div>
+		<div class="zc_right">
+			<h3>注册成为“去哪儿”的用户后，您可以：</h3>
+			<p class="zc_heit">畅游与去哪儿合作的<span class="zc_color_zs">机票、酒店、度假</span>代理商网站，轻松管理订单</p>
+			<p>查询、计划、管理您的预订信息</p>
+			<p>享受优质超低价格<span class="zc_color_zs">团购</span>服务</p>
+			<img src="imags/6ee162e2ba2ae502.jpg" alt="" />
+		</div>
+	</div>
+	<script src="js/checkinfo.js"></script>
+</body>
+</html>

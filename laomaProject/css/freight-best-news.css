@@ -1,0 +1,122 @@
+.freight-best-news{
+  padding: 15px;
+  padding-top: 55px;
+  background: #f6f6f6;
+}
+.freight-best-news .col-md-3{
+  border: 1px solid #eee;
+  background: #fff;
+  padding: 15px;
+}
+.freight-best-news .col-md-9 .freight_news{
+  margin-top: 28px;
+  padding: 15px;
+}
+.freight-best-news .col-md-9 .freight_news:first-child{
+  margin-top: 0;
+  padding-top: 0;
+}
+.freight-best-news .col-md-9 .freight_news:hover{
+  background: #f8f8f8;
+}
+.freight-best-news .col-md-9 .freight_news .title{
+  margin-bottom: 18px;
+}
+.freight-best-news .col-md-9 .freight_news .col-md-4{
+  padding-left: 0;
+} 
+.freight-best-news .col-md-9 .freight_news .postBookmarks{
+  margin: 4px 0;
+}
+.freight-best-news .col-md-3 h4,.freight-best-news .col-md-9 h3{
+  margin-top: 24px;
+  margin-bottom: 6px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.freight-best-news .col-md-9 h3.title2{
+  margin-top: 0;
+  font-size: 18px;
+}
+.freight-best-news .col-md-3 ul li{
+  line-height: 1.2;
+  margin-top: 8px;
+}
+.freight-best-news .col-md-3 ul li a{
+  padding-left: 10px;
+  font-size: 14px;
+  display: inline-block;
+}
+.freight-best-news .col-md-3 ul li a.a-style:before{
+  content: "";
+  display: inline-block;;
+  width: 4px;
+  height: 4px;
+  margin-right: 4px;
+  vertical-align: middle;
+  background: #9a7774;
+}
+.freight-best-news h3.title{
+  background: url(../images/bg_cargo.jpg);
+  background-size: cover;
+  padding: 8px;
+  border-radius: 6px;
+  box-shadow: 0 1px 1px #bdbdbd;
+  color: #fff;
+  text-shadow: 1px 1px #904a27;
+  text-align: center;
+  font-size: 24px;
+}
+.freight-best-news .col-md-9 .news_content{
+  padding: 15px;
+}
+.freight-best-news .col-md-9 .news_content .img{
+  margin: 12px 0 32px 0;
+}
+.freight-best-news .col-md-9 .news_content h4{
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+.freight-best-news .col-md-9 .news_content p{
+  margin-top: 8px;
+  text-indent: 2em;
+}
+.freight-best-news .col-md-9 .news_content p.p_margin_none{
+  text-indent: 0;
+}
+i.icon-chuanzhen1,i.icon-social-skype,i.icon-dianhua,i.icon-social-whatsapp,i.icon-chuanzhen,i.icon-youxiang,i.icon-dizhi,i.icon-lianxiren1{
+    margin-right: 4px;
+    color: #fff;
+    top:0;
+    vertical-align: middle;
+    line-height: inherit;
+}
+i.icon-dizhi{
+  font-size: 26px!important;
+  margin-right: 0px;
+  vertical-align: top;
+}
+i.icon-dianhua{
+  font-size: 22px;
+  vertical-align: top;
+  
+}
+i.icon-chuanzhen1{
+  font-size: 20px;
+}
+i.icon-social-skype{
+  font-size: 18px;
+  vertical-align: top;
+
+}
+i.icon-social-whatsapp{
+  font-size: 18px!important;
+  vertical-align: top;
+}
+i.icon-youxiang{
+  font-size: 22px;
+}
+i.icon-lianxiren1{
+  font-size: 20px;
+
+}
